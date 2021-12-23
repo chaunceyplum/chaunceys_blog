@@ -1,0 +1,26 @@
+body { overflow-x:hidden; }
+
+
+.navbar {
+  border-bottom: 5px  black !important;
+  -webkit-box-shadow: 0px 1px 1px rgb(24, 24, 29);
+  -moz-box-shadow: 0px 1px 1px rgb(24, 24, 29);
+  box-shadow: 0px 2px 10px rgb(24, 24, 29);
+  padding-top: 15px;
+  padding-bottom: 15px;
+  position: sticky;
+  top:0;
+  background-color: white;
+}
+p{
+  display: block;
+  line-height: 2;
+  
+}
+.bg1{
+  background-color: lightgray;
+}
+
+.spacer{
+  padding-top:100px;
+}
